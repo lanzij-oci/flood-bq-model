@@ -6,3 +6,4 @@ numpy
 shapely
 rasterio
 branca
+geopandas

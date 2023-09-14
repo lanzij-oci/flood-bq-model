@@ -1,0 +1,8 @@
+earthengine-api
+folium
+tqdm
+pandas
+numpy
+shapely
+rasterio
+branca

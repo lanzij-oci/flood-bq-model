@@ -9,3 +9,5 @@ branca
 geopandas
 pygeos
 rtree
+osmnx
+seaborn

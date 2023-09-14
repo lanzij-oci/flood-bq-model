@@ -7,3 +7,5 @@ shapely
 rasterio
 branca
 geopandas
+pygeos
+rtree

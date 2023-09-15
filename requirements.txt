@@ -11,3 +11,4 @@ pygeos
 rtree
 osmnx
 seaborn
+pandas_gbq
